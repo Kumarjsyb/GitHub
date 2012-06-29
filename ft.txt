@@ -1,0 +1,798 @@
+<?php
+/**
+ * The template for displaying the footer.
+ *
+ * Contains the closing of the div and all content after
+ *
+ */ 
+?>
+
+<!-- Footer Block Starts Here -->
+	<div class="container_12 footerContainer">
+    	<div class="grid_7 alpha footerNav">
+        	<ul>
+            	<li><a href="<?php echo get_permalink(117); ?>">Site Map</a></li>
+                <li><a href="#"  rel="#useragreement">User Agreement</a></li>
+                <li><a href="#"  rel="#privacypolicy">Privacy Policy</a></li>
+                <li class="last"><a href="http://www.acceptresponsibility.org" target="_blank">Accept Responsibility</a></li>
+                <li><span class="rights">Chivas Regal&reg;, The Chivas Brotherhood&trade;, the domain www.chivasbrotherhood.com, and other Chivas Regal indicia and designs are the property of Chivas Brothers Limited, U.K., all rights reserved.</span></li>
+            </ul>
+        </div>
+        <div class="grid_4 rightBottom">
+        <img src="<?php bloginfo('template_directory'); ?>/images/livewithchivalry.png" />
+        <span class="chivasCaption">PLEASE ENJOY CHIVAS RESPONSIBLY</span>
+        </div>
+        
+    </div>
+
+	<div class="clear"></div>
+    </div>
+
+
+<!-- Manifesto popup content added -->
+	
+<div class="" id="manifesto" style="display:none">
+	<div class="manifestocontainer">
+	<img src="<?php bloginfo('template_directory'); ?>/images/manifesto_title.png"/>
+	<p class="bold">There are many roads to success. <br/>But only one that leads to real fortune.</p>
+	<p class="content">Succeed as gentlemen - <br/>Embrace every ambition with confidence and respect. <br/>With charisma, with style.<br/> Seek a wealth of experience over an experience of wealth.<br/> Appreciate the work that goes into "a work of art" - the detail, craft and passion.<br/> Never forget your roots. <br/>Try and be the best man you can,<br/> and you'll be a gentleman.<br/> Welcome your family and friends for the ride.<br/> Invite them on your adventures and value their support,<br/> for there are certain to be times when you'll need it.<br/> Yes, there'll be short cuts along the way,<br/> but try not to take them.<br/> For short cuts are often only compromises.<br/> And when the time comes,<br/> share the spotlight and spoils of your success<br/> with those that have helped you,<br/> those who were there from the start.</p>
+	<p class="bold">Live with Chivalry.<br/> And you'll be rich before you begin</p>
+	<div class="invite">
+		<h4><img src="<?php bloginfo('template_directory'); ?>/images/invite-you-brothers.png"></h4>
+		<a href="" class="facebooklink" id="facebook_share1">Facebook link</a>
+		<a href='http://twitter.com/share?url=<?php echo urlencode($SiteUrl)?>&text=<?php echo urlencode("Join me in the Chivas Brotherhood for exclusive events and insider benefits, all in support of living the good life.")?>' data-text=" " target="_blank" class="twitterlink">Twitter link</a>
+
+		
+	</div>
+	</div>
+</div>
+
+
+<!-- Privacy policy popup content added -->
+	
+<div class="" id="privacypolicy" style="display:none">
+	<div class="privacypolicycontainer">
+	<h2 class="privacy-header"></h2>
+	<div class="content">
+
+	 <p>This is the privacy policy of the web site at www.chivasbrotherhood.com, which shall include, without limitation, the home page, micro-sites, splash page, and all other pages under the same top level domain name, all third party web sites branded by Chivas and all content thereon (the "Site") as provided by Chivas Brothers Limited, a company registered in Scotland under company number SC268758 and with a registered office at 111-113 Renfrew Road, Paisley, Scotland PA3 4DY ("Chivas" or "we").</p>
+                                          <br /><br />
+                                          <p>This policy sets out how we collect, handle and secure your data. We take your privacy very seriously and will treat information we receive from you in accordance with this policy. We will also treat your information in accordance with any relevant laws including, without limitation, the Data Protection Act 1998 and any requirements of social media platforms including without limitation Facebook, Twitter, Youtube and Flickr ("Social Media Platforms").</p>
+                                          <br /><br />
+                                          <p>Collecting Information</p>
+                                          <p>Personally Identifiable Information: the Site requests, collects and retains certain personally identifiable information through various means such as name, address, phone number and e-mail address through various means, such as Site registration, surveys, games, questions, comments and communications to the Site, and postings to chat and bulletin areas, if any. Information may also include your basic account information from Social Media Platforms, including, without limitation, your user ID, your date of birth, your profile picture and any comments you make on the Site, as well as any other information you supply to us when using the Site, including, without limitation, any information or materials submitted by you through the Site, whether names, personal information, photographs, films, stories, music, ideas, creative concepts, other materials, information or data of any kind and in any format and other content you post on and through the Site ("User Information").</p>
+                                          <br /><br />
+                                          <p>Non-Personally Identifiable Information: We may also collect certain non-personally identifiable information at the Site, such as annual income, buying preferences, or age, also known as demographic or profile data.</p>
+                                          <br /><br />
+                                          <p>We wish to keep this information as up to date as possible and you agree that you will remain responsible for keeping your information up to date by informing us of any changes to your information by using the contact email address set out below in "Access".</p>
+                                          <br /><br />
+                                          <p>Cookies</p>
+                                          <p>"Cookies" are pieces of information that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site. We may use cookies to customise your experience on the Site. We may also use cookies to record how many times a user has visited the Site and what pages or functions of the Site the user has accessed. You may, however, disallow receiving cookies at any time through your web browser. It is not our intention to use cookies to retrieve information that is unrelated to the Site or your interaction with the Site.</p>
+                                          <br /><br />
+                                          <p>Internet Protocol (IP) Address</p>
+                                          <p>We may collect your IP address to help diagnose problems with our server, and to help administer the Site. An IP address is a number that is assigned to your computer when you use the Internet. This information does not contain any personally identifiable information about you. Your IP address is also used to help identify you during a particular session and to gather broad demographic data.</p>
+                                          <br /><br />
+                                          <p>Usage</p>
+                                          <p>Chivas and its associated companies, subsidiaries, agents and representatives may use information collected on or through the Site for the purposes for which such information was collected and other purposes as disclosed to individual from whom the information was received at the time such information is provided, or as described in this Privacy Policy. For example, the information collected on and through the Site may be used to send you information about the products and services of Chivas and its associated companies and about updates to the Site. In certain instances you will have an opportunity to limit this use at time the information is collected. You also may limit or stop this use at any time by following the instructions in Choice/Opt-out below. We may use the information we gather along with information obtained from other sources, including but not limited to, information obtained from third parties. Information collected via the Site may be used for the future promotional activities of Chivas in association with its products.</p>
+                                          <br /><br />
+                                          <p>If we wish to use information for any additional purpose we shall notify you of this at the time that you provide that information prior to such use commencing.</p>
+                                          <br /><br />
+                                          <p>With respect to non-personally identifiable information, we may use this data to improve the Site and to send you information that may be of interest to you. We may also share this information with others, such as advertisers interested in advertising on the Site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person. This information may also be used to evaluate what portions of the Site are more popular than others, determine where visitors came from, where visitors go, how long visitors stay on a particular page, or use of the Site in general.</p>
+                                          <br /><br />
+                                          <p>Sharing</p>
+                                          <p>Chivas may share your personally identifiable information with business partners that we believe may provide offers that may be of interest to you. In certain instances you will have an opportunity to limit this sharing at the time the information is collected. You also may limit or stop this sharing at any time by following the instructions in Choice/Opt-out below.</p>
+                                          <br /><br />
+                                          <p>In order to make the Site more enjoyable for visitors, Chivas constantly strives to learn how users use the Site. Information concerning your use of the Site and related services may be collected, used, retained and made available to one or more third parties, such as a data processor, fulfilment agency, or advertising agency, for these purposes.</p>
+                                          <br /><br />
+                                          <p>Chivas may transfer, sell or assign information concerning your use of the Site, including, without limitation, personally identifiable information that you provide and other information concerning your use of the Site, to third parties, as a result of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of Chivas.</p>
+                                          <br /><br />
+                                          <p>Chivas may make information concerning users of the Site available to law enforcement personnel and agencies when requested to do so or as required by law.</p>
+                                          <br /><br />
+                                          <p>Third Party Websites</p>
+                                          <p>Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers or affiliates, to and from the websites of third parties and to and from links to social media platforms. If you follow a link to any of these websites or platform, please note that these websites and platforms should have their own privacy policies, which will govern their use of the information that you provide to them and that we do not accept any responsibility or liability for these policies (except where expressly set out in those policies). Please check these policies before you submit any personal data to these websites or social media platforms.</p>
+                                          <br /><br />
+                                          <p>Posting Information on or through the Site</p>
+                                          <p>You are solely responsible for the information and other content you post on or through the Site. See Terms and Conditions. You understand that personal and other information (e.g., user name, e-mail address, phone number) that you post on or through the Site (e.g. via functionality such as chat, bulletin boards, post cards or invitations), is generally accessible to and may be collected and used by others and may result in unsolicited messages or other contact from others. Users of any such functionality on the Site are encouraged to exercise caution when providing personal information.</p>
+                                          <br /><br />
+                                          <p>Security</p>
+                                          <p>We take security very seriously. Due to the open communication nature of the Internet however, we cannot guarantee that communications between you and us, and us and you, will be free from unauthorised access by third parties.</p>
+                                          <br /><br />
+                                          <p>Consent to Processing</p>
+                                          <p>By providing any personal data or information to the Site including, but not limited to, sensitive personal data (such as racial, ethnic, political, religious, trade union, physical or mental health, sexual or criminal record information), you fully understand and unambiguously consent to the transfer of such personal data or information to, and the collection, retention and processing of such personal information in, the United Kingdom and other countries or territories including, without limitation, those outside of the European Economic Area.</p>
+                                          <br /><br />
+                                          <p>Access</p>
+                                          <p>If you would like to review and/or update the information that you have provided to the Site, please send an e-mail to chivasregal@qualitycustomercare.com requesting such access or change.</p>
+                                          <br /><br />
+                                          <p>Choice/Opt-out
+                                          <p>You may choose to have your name taken off the Chivas e-mail list, have us delete any information about you that we hold or have Chivas not provide your information to others in the future by (1) sending an e-mail to chivasregal@qualitycustomercare.com with the subject line "Unsubscribe to Chivas Brothers" or "Unsubscribe to Partners," or by (2) following instructions as provided in any e-mail message from Chivas.</p>
+                                          <br /><br />
+                                          <p>Your Acceptance of this Policy
+                                          <p>By using the Site, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept these changes.</p>
+                                          <br /><br />
+                                          <p>Site Administrators: chivasregal@qualitycustomercare.com</p>
+                                          <br /><br />
+                                          <p>Last Updated: October 2011</p>
+
+	</div>
+	
+	
+	</div>
+</div>
+
+
+<!-- User Agreement popup content added -->
+	
+<div class="" id="useragreement" style="display:none">
+	<div class="useragreementcontainer">
+	<h2 class="useragreement-header"></h2>
+	<p class="bold">There are many roads to success. <br/>But only one that leads to real fotrune.</p>
+	<div class="content">
+	
+		
+<p>Welcome to chivasbrotherhood.com. The following terms and conditions of use (the "Terms and Conditions") govern your use of the web site at www.chivasbrotherhood.com, which shall include, without limitation, the home page, micro-sites, splash page, and all other pages under the same top level domain name, all third party web sites branded by Chivas and all content thereon (the "Site") as provided by Chivas Brothers Limited, a company registered in Scotland under company number SC268758 and with a registered office at 111-113 Renfrew Road, Paisley, Scotland PA3 4DY ("Chivas" or "we").</p>
+<br>
+<br>
+<p>We may change the Terms and Conditions from time to time and at any time without notice to you, by posting such changes on the Site. BY USING THE SITE, YOU ACCEPT THESE TERMS AND CONDITIONS AND AGREE TO ABIDE BY THEM. If you do not agree to these Terms and Conditions, you may not access or otherwise use the Site. By using the Site following any modification to the Terms and Conditions, you agree to be bound by any such modification to the Terms and Conditions.</p>
+<br>
+<br>
+<p>Age Requirement for Use of Site</p>
+<p>1. This Site is intended only for the use and enjoyment (i) of persons who are of legal age to purchase and consume alcoholic beverages in the jurisdiction in which they reside or, where they are accessing the Site from a different jurisdiction, in the jurisdiction from which they are accessing the Site and (ii) where the sale, consumption and advertising of alcohol is permitted in the relevant jurisdiction.</p>
+<br>
+<br>
+<p>2. To access or otherwise use the Site (i) you must be of legal purchase age or older in the jurisdiction in which you reside or the jurisdiction from where you are accessing the Site (whichever applies); and (ii) the sale, consumption and advertising of alcohol must be permitted in that jurisdiction. Persons under such legal purchase age or who reside in a jurisdiction were the sale, consumption and/or advertising of alcohol is not permitted, should not use the Site in any way.</p>
+<br>
+<br>
+<p>Social Media Platforms and other Links from and to the Site</p>
+<p>3. The Site may include links to social media platforms including without limitation Facebook, Twitter, Youtube and Flickr ("Social Media Platforms"). As part of the Services Available on the Site and your use generally of the Site, you may follow a link to Social Media Platforms from the Site, you may share the Site link or a link to certain parts of the Site on Social Media Platforms, you may upload to the Site photographs or other content which are already stored on Social Media Platforms (provided always such photographs and/ or content are owned by you), you may identify third parties on the Site by reference to their identities on Social Media Platforms (provided always the consent of those third parties has been obtained by you) or you may interact between the Site and Social Media Platforms in any other permitted way. In these circumstances, you agree to comply with the Terms and Conditions and the terms and conditions of the Social Media Platforms used. Please note that use of the Social Media Platforms is governed by separate terms and conditions and privacy policies which can be found on the websites of the Social Media Platforms accessed.</p>
+<br>
+<br>
+<p>4. You acknowledge and agree that we have no responsibility for the accuracy or availability of information provided by sites to which you may link from the Site ("Linked Sites"). Links to Linked Sites do not constitute an endorsement by or association with Chivas of such sites or the content, products, advertising or other materials presented on such sites. Chivas does not author, edit, or monitor these Linked Sites. You acknowledge and agree that Chivas is not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on such Linked Sites.</p>
+<br>
+<br>
+<p>Services Available on the Site</p>
+<p>5. We make certain services available to visitors of the Site. On the Site generally, you may be able to read information about our products, view movies, documentaries and other films, stream music, download music, tell your own story, upload your own photographs or other content, identify third parties in your story, photographs or other content, enter competitions, chat with other visitors, post comments on a bulletin board, download screensavers or other software, send branded material to friends etc ("Services" and the Services form part of the definition of "Site").</p>
+<br>
+<br>
+<p>6. We do not solicit nor do we wish to receive any confidential or secret information or material from you through the Site, through any of the Services, by email or in any other way. Any information or material submitted by you will be deemed not to be confidential or secret.</p>
+<br>
+<br>
+<p>7. Visitors are solely responsible for any information or materials submitted by you through the Site, whether names, personal information, photographs, films, stories, music, ideas, creative concepts, other materials, information or data of any kind and in any format and other content you post on and through the Site ("User Information").</p>
+<br>
+<br>
+<p>8. By submitting User Information to the Site you represent and warrant that the User Information is original to you and that no other party has any rights to it or that you have obtained all required consents and permits to enable you to submit the User Information to the Site and for it to appear on the Site. Visitors agree that the User Information will not include content which infringes upon the rights of any third party including, without limitation, intellectual property rights, privacy, publicity or other personal or proprietary right; content that is deceptive or fraudulent; content which promotes the excessive or irresponsible consumption of alcohol; content that is or could reasonably be considered to be hateful, defamatory, discriminatory, obscene, abusive, threatening, offensive or pornographic or that incites violence or contains nudity or graphic or gratuitous violence or depicts any illegal activity; or content that references ammunition and/or firearms or the sale of tobacco products. Visitors fully indemnify us for breach of these warranties and guarantees.</p>
+<br>
+<br>
+<p>9. We reserve the right to delay publication of User Information to the Site at all times for the purposes of our approval processes. We further reserve the right to remove any User Information or any other content from the Site at any time for any reason.</p>
+<br>
+<br>
+<p>10. By submitting or sending User Information to the Site or to Chivas, you grant Chivas the royalty-free, unrestricted, worldwide, perpetual, irrevocable, non-exclusive and fully sub-licensable right and licence to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such material (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed. You also warrant that any "moral rights" in posted materials have been irrevocably waived in favour of Chivas.</p>
+<br>
+<br>
+<p>11. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on or through the public portions of the Site (e.g., comments, chat, bulletin boards), that such information is generally accessible to and may be collected and used by others and may result in unsolicited messages from other people. Visitors to and users of the Site are encouraged to exercise caution when providing personal information.</p>
+<br>
+<br>
+<p>
+12. For music downloads and other purchase, promotions where you are provided with a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any third party. We have the right, at our sole discretion, to disable any user identification code or password, whether chosen by you or allocated by us, at any time. Any music downloads or streams are for your own personal, non-commercial use. You agree that you shall not:
+<br>
+copy, reproduce, "rip", record, make available to the public or otherwise use any part of the music downloads or streams or any part of them in a manner not expressly permitted under these terms and conditions;
+<br>
+sell or attempt to sell any invite to access the music downloads, or resell any code used to access the music downloads Service;
+<br>
+provide your personal identification code or use any other person's personal identification code;
+<br>
+reverse-engineer, decompile, disassemble, modify or create derivative works based on the music downloads, music streams or any part thereof;
+<br>
+circumvent any technology used by us, our licensors, or any third party to protect content accessible through the Site.
+<br>
+In addition to the above, you agree to use best endeavours to prevent unauthorised use of the music downloads and streams.
+</p>
+<br>
+<br>
+<p>13. To the extent permitted by law, we shall have no liability for any loss or damage suffered by you as a result of the use or disclosure of any of the User Information. This paragraph does not affect any rights you may have under data privacy laws that protect your personal information.</p>
+<br>
+<br>
+<p>
+Proprietary Rights
+<br>
+14. As between you and Chivas (including our affiliates being any company which is part of the Pernod Ricard group at any time ("Group Company")), we are the owner and/or authorised user of any trade mark, and/or service mark appearing on the Site, and are the copyright owner or licensee of the content and/or information on the Site, unless otherwise indicated. Except as otherwise provided herein, use of the Site does not grant to you a licence to any content, features or materials you may access on the Site. Any commercial use of the Site is strictly prohibited, except as allowed herein or otherwise approved by us in advance in writing. You may not download or save a copy of any of the content or screens for any purpose except as otherwise provided in these Terms and Conditions or as permitted on the Site. You may, however, print one (1) copy of the information on the Site solely for your personal use or records. If you make other use of the Site, except as otherwise provided above, you may violate copyright and other laws of the United Kingdom or other countries or territories and may be subject to liability for such unauthorised use.
+<br>
+15. We do not grant any licence or other authorisation to any user of our trade marks, service marks, other copyrightable material or any other intellectual property, by including them on the Site. You also agree and acknowledge that any ideas, concepts, methods, systems, designs, plans, techniques or other similar materials that you submit or otherwise communicate to the Site, may be used by us in any manner.
+</p>
+<br>
+<br>
+<p>
+Internet Access
+<br>
+16. You acknowledge and agree that in connection with your use of the Site you must: (a) provide for your own access to the World Wide Web and pay any service fees associated with such access, and (b) provide all equipment necessary for you to make such access and connection to the World Wide Web, including, without limitation, a computer, software, a modem and a means of connecting to or accessing the Internet. Chivas shall not be responsible for any malfunctions, errors, crashes or other adverse events that may occur from your use of the Site.
+</p>
+<br>
+<br>
+<p>
+User Information and Privacy Policy
+<br>
+17. In the course of your use of the Site, you may be asked to provide and we may collect certain information about you and your use of the Site. Chivas' information collection and use policies with respect to such User Information are set forth in the Privacy Policy. By using the Site, you agree to be bound by the Privacy Policy and you acknowledge and agree that you are solely responsible for the accuracy, content and updating of your User Information.
+</p>
+<br>
+<br>
+<p>
+No Confidentiality
+<br>
+18. You agree and acknowledge that by using this Site, any and all communications and/or information transmitted by you to or through the Site will not be treated as confidential or secret.
+</p>
+<br>
+<br>
+<p>
+User Conduct
+<br>
+19. You warrant and agree that, while using the Site, you shall not upload, post or transmit to or distribute or otherwise publish through the Site any materials that: (a) are protected by copyright, or other proprietary or intellectual property right, or derivative works with respect thereto, except as provided herein or without first obtaining permission from us or the copyright owner; (b) are unlawful, threatening, harassing, profane, tortious, delictual, defamatory, vulgar, obscene, libellous, deceptive, fraudulent, contains explicit or graphic descriptions or accounts of sexual acts (including, but not limited to, sexual language of a violent or threatening nature directed at another individual or group of individuals), invasive of another's privacy, or hateful, (c) restrict or inhibit any other user from using and enjoying the Site, (d) constitute or encourage conduct that would constitute a criminal offence or give rise to civil liability, or (e) contain a virus or other harmful component, advertising of any kind, or false or misleading indications of origin or statements of fact.
+<br>
+20. You also warrant and agree that you shall not: (a) impersonate, or misrepresent your affiliation with any other person or entity; (b) upload, post, publish, transmit, reproduce, distribute or in any way exploit any information or other material obtained through the Site for commercial purposes (other than as expressly permitted by the provider of such information or other material); (c) engage in spamming or flooding; or (d) attempt to gain unauthorised access to other computer systems through the Site. Except as otherwise expressly permitted herein, you may not upload, post, publish, reproduce, transmit or distribute in any way any component of the Site itself or derivative works with respect thereto, as the Site is copyrighted as a collective work under UK copyright laws.
+<br>
+21. We have no obligation to monitor any content on or through the Site and we assume no obligation. You acknowledge and agree, however, that we do retain the right to monitor the Site and to disclose any information as necessary or appropriate to satisfy any law, regulation or other governmental request, to operate the Site properly, or to protect ourselves or our users. We will not intentionally monitor or disclose any private electronic-mail message unless required by law. We reserve the right to refuse to post or to remove any information or materials, in whole or in part, that, in our sole discretion, are unacceptable, undesirable, inappropriate or in violation of these Terms and Conditions.
+<br>
+22. You agree to defend, indemnify and hold Chivas, its directors, officers, employees, agents and affiliates harmless from any and all claims, liabilities, costs and expenses, including, without limitation, reasonable legal fees and costs, arising in any way from your use of the Site or the placement or transmission of any message, information, software or other materials or through the Site by you.
+</p>
+<br>
+<br>
+<p>
+DISCLAIMER OF WARRANTIES
+<br>
+23. THE SITE, INCLUDING, WITHOUT LIMITATION, ALL CONTENT, FUNCTIONS AND MATERIALS IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY FOR INFORMATION, DATA, DATA PROCESSING SERVICES, OR UNINTERRUPTED ACCESS, ANY WARRANTIES CONCERNING THE AVAILABILITY, ACCURACY, USEFULNESS, OR CONTENT OF INFORMATION, AND ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. CHIVAS DOES NOT WARRANT THAT THE SITE OR THE FUNCTIONS, FEATURES OR CONTENT CONTAINED THEREIN WILL BE TIMELY, SECURE, UNINTERRUPTED OR ERROR FREE, OR THAT DEFECTS WILL BE CORRECTED. CHIVAS MAKES NO WARRANTY THAT THE SITE WILL MEET USERS' REQUIREMENTS. NO ADVICE, RESULTS OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM CHIVAS OR THROUGH THE SITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. IF YOU ARE DISSATISFIED WITH THE SITE, YOUR SOLE REMEDY IS TO DISCONTINUE USING THE SITE.
+</p>
+<br>
+<br>
+<p>
+LIMITATION OF LIABILITY
+<br>
+24. TO THE EXTENT PERMISSIBLE UNDER LAW, IN NO EVENT SHALL CHIVAS OR ANY OF ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, AFFILIATES, OR CONTENT OR SERVICE PROVIDERS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE LOSS OR DAMAGES ARISING FROM OR DIRECTLY OR INDIRECTLY RELATED TO THE USE OF, OR THE INABILITY TO USE, THE SITE OR THE CONTENT, MATERIALS OR FUNCTIONS RELATED THERETO INCLUDING, WITHOUT LIMITATION, LOSS OF INCOME OR REVENUE, LOSS OF ANTICIPATED PROFITS OR CONTRACTS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, LOSS OF GOODWILL OR LOSS OF BUSINESS, EVEN IF CHIVAS OR SUCH INDIVIDUAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL LOSS OR DAMAGES SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO CERTAIN USERS. IN NO EVENT SHALL CHIVAS BE LIABLE FOR OR IN CONNECTION WITH ANY CONTENT POSTED, TRANSMITTED, EXCHANGED OR RECEIVED BY OR ON BEHALF OF ANY USER OR OTHER PERSON ON OR THROUGH THE SITE. IN NO EVENT SHALL THE TOTAL LIABILITY OF CHIVAS TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, DELICT OR TORT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE OR OTHERWISE) ARISING FROM THE TERMS AND CONDITIONS OR YOUR USE OF THE SITE EXCEED, IN THE AGGREGATE, L100.00.
+</p>
+<br>
+<br>
+<p>
+Applicable Laws
+<br>
+25. We control and operate the Site from our offices in the United Kingdom. In all matters relating to the Site and these Terms and Conditions, the applicable law shall be the law of England and Wales. All viewers and users of the Site agree to submit to the exclusive jurisdiction of the English Courts.
+<br>
+26. The laws of England and Wales are applicable when using the Site. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+</p>
+<br>
+<br>
+<p>
+Modifications to the Site
+<br>
+27. We reserve the right, for any reason, in our sole discretion, to terminate, change, suspend or discontinue any aspect of the Site, including, but not limited to, content, features or hours of availability. We may also impose limits on certain features of the Site or restrict your access to all or part of the Site without notice or penalty.
+</p>
+<br>
+<br>
+<p>
+Copyright Act Agent
+<br>
+28. We respect the intellectual property rights of others, and require that the people who use the Site do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please send the following information in writing (which shall be deemed to include by email) to the Copyright Agent named below:
+</p>
+&gt;
+<br>
+<br>
+<p>
+Your address, telephone number, and email address;
+<br>
+A description of the copyrighted work that you claim has been infringed;
+<br>
+A description of where the alleged infringing material is located on the Site;
+<br>
+A statement by you that you have a good faith belief that the disputed use is not authorised by you, the copyright owner, its agent, or the law;
+<br>
+An electronic or physical signature of the person authorised to act on behalf of the owner of the copyright interest; and
+<br>
+A statement by you, made under penalty of perjury, that the above information that you provide is accurate and that you are the copyright owner or authorised to act on the copyright owner's behalf.
+<br>
+Please Enjoy Chivas Responsibly
+<br>
+http://acceptresponsibility.org/
+<br>
+Chivas Regal Blended Scotch Whisky, 40% Alc / Vol. (80 Proof)
+<br>
+&copy;2011 Imported by Chivas Brothers Import CO, Purchase, NY
+</p>
+<p>
+Copyright Agent:
+<br>
+Legal Director
+<br>
+Chivas Brothers
+<br>
+111/113 Renfrew Road
+<br>
+Paisley
+<br>
+Scotland
+<br>
+United Kingdom
+</p>
+<p>Site Administrators: chivasregal@qualitycustomercare.com</p>
+<p>Last Updated: October 2011</p>
+	
+	</div>
+	
+	
+	</div>
+</div>
+
+
+
+
+<!-- Footer Block Ends Here -->
+
+<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/scripts.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.tinycarousel.min.js"></script>
+
+<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.lightbox-0.5.js"></script>
+
+<script src="<?php bloginfo('template_directory'); ?>/js/jquery.validate.js" type="text/javascript"></script>
+
+<script src="<?php bloginfo('template_directory'); ?>/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="<?php bloginfo('template_directory'); ?>/js/jquery.md5.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+<!-- Following js and code added to work facebook libraries -->
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+
+<?php
+
+	
+	// Facebook check login authentication.
+	require_once 'libraries/facebook.php';
+	require_once 'libraries/facebook_config.php';
+	$facebook = new Facebook(array(
+		'appId'  => '<?php echo $appId;?>',
+		'secret' => '<?php echo $Secret;?>',
+		'cookie' => true,
+        'oauth'  => true,
+	));	
+	
+	$user = $facebook->getUser();
+        
+         	
+    
+      if($user)
+      {
+          
+          $url="#";
+
+			$friends = $facebook->api('/me/friends');
+	
+			$friend_dropdown = "<select multiple='none' name='friend_select' id='friends_list'>";
+			$friend_optoin="";
+
+			$allFriends = array();
+			$profileName ="";
+
+			for ($i=0; $i<count($friends['data']);$i++)
+					{
+								   $pro_id= $friends['data'][$i]['id'];
+								   $profileName= $friends['data'][$i]['name'];
+								   $friend_option =$friend_option."<option value='$pro_id'>$profileName</option>";
+								   $allFriends['$pro_id']= $profileName;
+										   
+							}
+							
+						$friend_dropdown= $friend_dropdown.$friend_option."</select>";
+						
+	
+      }
+      
+ else 
+ {
+      $url = $facebook->getLoginUrl(array('req_perms' => 'user_status,publish_stream,user_photos,offline_access'));
+ }
+
+
+//$image = "/images/chivas-fb-icon.gif";
+$SiteUrl=get_site_url();
+$image= $SiteUrl."/wp-content/themes/chivas-brotherhood-english/images/chivas-fb-icon.gif";
+$post_id = $_GET['val'];
+?>
+
+<script type="text/javascript">
+
+function FacebookShare(toast_id)
+			{
+
+				//alert('toast id='+toast_id);
+
+				console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'A Toast from the Chivas Brotherhood',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo get_permalink(57)."&fromWhere=2&toast_id=";?>'+toast_id,
+										  description: '\"Courage is what it takes to stand up and speak ; courage is also what it takes to sit down and listen.\" - Winston Churchill. Check our more great toasts and add your own.'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+		
+			}	
+
+
+	var _gaq = _gaq || [];
+	$(document).ready(function () {
+
+
+		$('li.toastContent').click(function () {
+			alert("This Div is fired");
+		});
+
+
+		
+	
+		$("#facebook_share").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'Chivas Brotherhood',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo $SiteUrl;?>',
+										  description: 'Join me in the Chivas Brotherhood for unrestricted access to a world of exclusive events and insider benefits—like scotch-paired dinners, first-class contests and tastings in upscale lounges. chivasbrotherhood.com'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+				
+
+			$("#facebook_bigbear_share").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'Here\'s to Real Friends',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo get_permalink(53); ?>',
+										  description: 'If I ever get standard in the middle of nowhere with my best friends while wearing a tux, I now know what to do (or actually ,what not to do.) I just watched "Here\'s to Big Bear" at the Chivas Brotherhood and thought you should check it out, too. Watch Now'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+
+
+			$("#facebook_twinkle_share").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'Here\'s to Real Friends',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo get_permalink(55); ?>',
+										  description: 'If a dog is really man\'s best friend, I pray little Twinkle helps me get back in the game if I\'m ever dumped as hard as the guy in the film , \"Here\'s to Twinkle.\" I just watched it at the Chivas Brotherhood site. Go see what I mean. Watch Now'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+
+			
+			$("#facebook_article_share").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'The Chivas Brotherhood',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo get_permalink(26); ?>?val=<?php echo $post_id; ?>',
+										  description: 'I just read an exclusive article at the Chivas Brotherhood and thought you\'d like to check it out, too. If it\'s about living the good life , it\'s at the Brotherhood. Read Now'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+
+
+			$("#facebook_toast_share").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ...
+		    							var obj = {
+										  method: 'feed',
+										  name: 'A Toast from the Chivas Brotherhood',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo get_permalink(57); ?>',
+										  description: '\"Courage is what it takes to stand up and speak ; courage is also what it takes to sit down and listen.\" - Winston Churchill. Check our more great toasts and add your own.'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+
+
+
+
+			
+			$("#facebook_share1").click(function () {
+		console.log('In Facebook Share');
+		 	
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                       var accessToken = response.authResponse.accessToken;
+	
+	     								   // calling the API ... 
+		    							var obj = {
+										  method: 'feed',
+										  name: 'Chivas Brotherhood',
+										  picture: '<?php echo $image;?>',
+										  link: '<?php echo $SiteUrl; ?>',
+										  description: 'Join me in the Chivas Brotherhood for unrestricted access to a world of exclusive events and insider benefits—like scotch-paired dinners, first-class contests and tastings in upscale lounges. chivasbrotherhood.com'
+										};
+								
+										function callback(response) {
+										  //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+										}
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+		
+					
+                
+            $("#facebook_connect").click(function () {
+
+			FB.init({appId: "<?php echo $appId;?>", status: true, cookie: true, oauth: true });
+			FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+                                         var accessToken = response.authResponse.accessToken;
+
+										 jQuery.cookie(document.domain + 'logged_in', 'yes');
+										 jQuery.cookie(document.domain + 'firstname', firstname);
+										 jQuery.cookie(document.domain + 'email', email);
+										  jQuery( "#dialog-modal" ).hide();
+
+	
+                                        window.location = "<?php echo $SiteUrl; ?>";
+
+										
+		    							var obj = {
+										 
+										  link: '<?php echo get_permalink(88);?>',
+										  picture: '<?php $image ?>',
+	
+										};
+										
+								
+										FB.ui(obj, callback);
+									  
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    // showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,user_photos, publish_stream'});  	
+			 });		
+                            
+                            
+
+			
+
+
+
+	
+		
+			
+
+			if(jQuery.cookie(document.location.host + 'rememberMe') === "yes")
+			{
+				jQuery("#loginemail").val(jQuery.cookie(document.location.host + 'rememberEmail'));
+				jQuery("#loginpassword").val("");
+				jQuery("#rememberMe").prop("checked", true);
+			}
+			else
+			{
+				jQuery("#loginemail").val("");
+				jQuery("#loginpassword").val("");
+				jQuery("#rememberMe").prop("checked", false);
+				//alert(" not loged in");
+			}
+			
+			if (jQuery.cookie(document.location.host + 'logged_in') == "yes") {
+				//var fname = "";
+				fname = jQuery.cookie(document.location.host + 'firstname');
+
+				//alert('name='+fname);
+				//window.location = "http://m.chivasbrotherhood.hoverstate.com/index.php";
+				jQuery("#name").html(fname);
+
+				//alert('logged in');
+				jQuery( "#dialog-modal" ).hide();
+				jQuery( "#registration-box" ).hide();
+
+				
+			} else {
+
+				//alert('not logged in');
+				jQuery( "#dialog-modal" ).show();
+				jQuery( "#registration-box").hide();
+				
+				
+				//_gaq.push(['_trackPageview', '/home/age-gate'])
+				
+			}
+			 
+		
+       
+                
+	});
+		         
+
+
+
+</script>
+
+<!--
+
+<script type="text/javascript">
+
+     
+	jQuery("#submitform").click(function () {
+	
+     $("#submit-toast").attr('action', '<?php bloginfo('template_directory'); ?>/testcode.php');
+	 $("#submit-toast").submit();
+	
+	//window.location.href = "index.php?page_id=16";
+
+	});
+	</script>
+
+-->
+
+
+<script type="text/javascript">
+  	
+	
+	jQuery("#submitform").click(function () { 	             
+		
+         var dataString = $("#submit-toast").serialize();
+		// alert(dataString);
+		 $.ajax({
+			type : 'POST',
+			url : '<?php bloginfo('template_directory'); ?>/testcode.php',
+			data: dataString,
+			success : function(data){
+			  $('.submit-toast-content').hide();
+			   $('.submit-toast-thank-pop-up').show();
+			},
+			error : function(XMLHttpRequest, textStatus, errorThrown) {
+				alert("Please try later");
+			}
+		});
+		return false;		
+});
+	</script>
+
+<?php wp_footer();
+
+ 
+?>
+
+</body>
+</html>
+
+
